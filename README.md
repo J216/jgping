@@ -14,5 +14,5 @@ EXAMPLE USAGE:
 ./jgping.py google.com   # graph the ping for a domain
 ./jgping.py 192.168.0.1  # graph the ping for IP address
 ```
-# Screenshot of the notification
+# Screenshot of jgping graphing ping times
 ![alt text](https://raw.githubusercontent.com/J216/jgping/master/jgping-screenshot.png "JSI JGPING")
