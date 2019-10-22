@@ -1,5 +1,5 @@
-# jgping
 ![alt text](https://github.com/J216/simple_tag_replace/raw/master/jsi-logo-256.png "JSI Logo")
+# jgping
 jgping allows you to easily graph your ping times on any platform, using Python and matplotlib
 
 # Description
