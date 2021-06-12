@@ -3,7 +3,7 @@
 jgping allows you to easily graph your ping times on any platform, using Python and matplotlib
 
 # Description
-This is scripts works just like the ping command but it displays a graph instead of just text output
+This script works just like the ping command but it displays a graph instead of just text output
 
 Requirements:
 ```bash
